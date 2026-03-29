@@ -965,6 +965,7 @@ for waste_item, data in waste_database.items():
         data["tip"] = "Dispose of responsibly according to local guidelines."
 
 def get_waste_info(item_name: str):
+     """Retrieves waste info for a given item name. Case insensitive."""
     name_clean = item_name.strip().lower()
     if name_clean in waste_database:
         return waste_database[name_clean]
