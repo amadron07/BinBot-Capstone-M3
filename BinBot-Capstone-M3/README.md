@@ -21,7 +21,7 @@ Users can upload waste images, receive AI-powered classification results, intera
 - Image upload and prediction system
 - FastAPI backend integration
 - TensorFlow MobileNetV2 prediction pipeline
-- Gemini AI chatbot assistance
+- openrouter chatbot assistance
 - Location-based recycling center support
 - Firebase cloud integration
 - Real-time frontend notifications
