@@ -2,7 +2,7 @@
 
 This folder contains my individual contribution to the BinBot – Smart Waste Segregation Assistant capstone project.
 
-My work primarily focused on backend infrastructure, frontend-backend communication, routing systems, and UI middleware integration.
+My work primarily focused on backend infrastructure, frontend-backend communication support, routing systems, and UI middleware integration.
 
 ---
 
@@ -10,7 +10,6 @@ My work primarily focused on backend infrastructure, frontend-backend communicat
 
 ## Backend Infrastructure
 - FastAPI backend setup and configuration
-- API routing and request handling
 - CORS middleware implementation
 - Static asset serving
 - Dynamic directory mapping
@@ -18,12 +17,12 @@ My work primarily focused on backend infrastructure, frontend-backend communicat
 
 ---
 
-# 🔗 Frontend–Backend Integration
-- Frontend API communication handling
-- Multipart image upload processing
-- Prediction response forwarding
+# 🔗 Frontend–Backend Support
+- Frontend communication handling
+- Multipart image upload handling
+- Backend request flow support
 - Error-state handling and validation
-- Backend integration with TensorFlow prediction pipeline
+- Frontend integration support
 
 ---
 
@@ -41,7 +40,6 @@ My work primarily focused on backend infrastructure, frontend-backend communicat
 - Python
 - JavaScript (ES6)
 - Uvicorn
-- TensorFlow
 - Pillow
 - python-multipart
 
