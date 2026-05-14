@@ -1,23 +1,55 @@
 # BinBot – Smart Waste Segregation Assistant
 
-This repository contains the complete capstone project along with my individual contribution (Member 3).
+BinBot is an AI-driven smart waste segregation web application designed to help users identify the correct disposal method for different types of waste materials using image classification, AI assistance, and location-based recycling support.
+
+## 🚀 Project Status
+Final implementation completed successfully.
+
+## 🌐 Live Deployment
+https://binbotai.vercel.app
 
 ## 📌 Project Overview
-BinBot is an AI-driven web application that helps users classify waste into categories such as wet, dry, hazardous, e-waste, and biomedical waste using image or text input.
+Improper waste segregation remains one of the biggest environmental challenges worldwide. BinBot addresses this issue by combining machine learning, modern web technologies, and intelligent assistance into a unified platform.
 
-## 🧠 Tech Stack
-- FastAPI (Backend)
-- TensorFlow (ML Model)
-- Firebase (Database)
-- JavaScript (Frontend)
+Users can upload waste images, receive AI-powered classification results, interact with an AI chatbot for waste-related guidance, and locate nearby recycling centers using geolocation-based services.
 
-## 📂 Repository Structure
-- /full_project → Complete team project
-- /member3_backend → My individual contribution
+---
 
-## 👨‍💻 My Contribution (Member 3)
-- FastAPI backend setup
-- CORS middleware configuration
-- File routing & directory mapping
-- UI middleware (toast.js, ui_effects.js)
+# ✨ Features
 
+- AI-powered waste classification
+- Image upload and prediction system
+- FastAPI backend integration
+- TensorFlow MobileNetV2 prediction pipeline
+- Gemini AI chatbot assistance
+- Location-based recycling center support
+- Firebase cloud integration
+- Real-time frontend notifications
+- Responsive web interface
+- Dynamic routing and middleware support
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+- HTML
+- CSS
+- JavaScript (ES6)
+
+## Backend
+- FastAPI
+- Uvicorn
+- Python
+
+## Machine Learning
+- TensorFlow
+- MobileNetV2
+
+## Cloud & Database
+- Firebase Firestore
+
+## Deployment
+- Vercel
+
+---
